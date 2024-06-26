@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Amardeep</h1>
 <h3 align="center">A DevOps & Cloud enthusiasts</h3>
-<img align="right" alt="coding" width="400" src = "">
+<img align="right" alt="coding" width="400" src = "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=996&t=st=1719382459~exp=1719383059~hmac=c8dc16af1fdc7fcb66231899251ccf44898001d48e2e52c585c12596b50ad08a">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amardee53479855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amardee53479855" height="30" width="40" /></a>
