@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Amardeep</h1>
 <h3 align="center">A DevOps & Cloud enthusiasts</h3>
-<img align="right" alt="coding" width="400" src = "https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img align="right" alt="coding" width="400" src = "">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amardee53479855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amardee53479855" height="30" width="40" /></a>
